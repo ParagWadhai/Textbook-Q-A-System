@@ -41,7 +41,7 @@ This system enables users to query large textbooks and retrieve accurate, contex
 
 2. Open the displayed URL in your browser (e.g., http://localhost:8501).
 
-##How to Use
+## How to Use
 1. Enter a query in the input box to search for answers.
 2. View generated answers alongside relevant textbook sections and chapters.
 
