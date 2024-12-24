@@ -2,14 +2,16 @@
 
 This system enables users to query large textbooks and retrieve accurate, contextually relevant answers using hierarchical indexing and advanced retrieval techniques.
 
-##Features
--**PDF Content Extraction: Extracts text from large textbooks for analysis.**
--**Hierarchical Tree-based Indexing: Organizes content into chapters, sections, and paragraphs for efficient retrieval.**
--**Hybrid Retrieval (BM25 + Semantic Search): Combines traditional and deep learning-based search techniques.**
--**Question Answering with LLM: Generates precise answers using advanced language models.**
--**Interactive User Interface: A Streamlit-powered interface for user interaction.**
+## Features
 
-##Setup
+- PDF Content Extraction: Extracts text from large textbooks for analysis.
+- Hierarchical Tree-based Indexing: Organizes content into chapters, sections, and paragraphs for efficient retrieval.
+- Hybrid Retrieval (BM25 + Semantic Search): Combines traditional and deep learning-based search techniques.
+- Question Answering with LLM: Generates precise answers using advanced language models.
+- Interactive User Interface: A Streamlit-powered interface for user interaction.
+
+## Setup
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/textbook-qa-system.git
