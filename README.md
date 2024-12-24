@@ -13,30 +13,31 @@ This system enables users to query large textbooks and retrieve accurate, contex
 ## Setup
 
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/textbook-qa-system.git
-cd textbook-qa-system
+    ```bash
+    git clone https://github.com/your-username/textbook-qa-system.git
+    cd textbook-qa-system
 
 2. Create a virtual environment:
-```bash
-python -m venv venv
+    ```bash
+    python -m venv venv
 
 3. Activate the virtual environment:
--**Windows:**
-```bash
-venv\Scripts\activate
--**macOS/Linux:**
-```bash
-source venv/bin/activate
+- Windows:
+    ```bash
+    venv\Scripts\activate
+    
+- macOS/Linux:
+    ```bash
+    source venv/bin/activate
 
 4. Install dependencies:
-```bash
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
-##Run the Application
+## Run the Application
 1. Launch the Streamlit app:
-```bash
-streamlit run ui/streamlit_app.py
+    ```bash
+    streamlit run ui/streamlit_app.py
 
 2. Open the displayed URL in your browser (e.g., http://localhost:8501).
 
